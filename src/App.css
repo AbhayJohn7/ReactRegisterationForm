@@ -1,0 +1,16 @@
+.container {
+    max-width: 600px;
+  }
+  
+  .form-group label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    margin-bottom: 15px;
+  }
+  
+  .btn {
+    width: 120px;
+  }
+  
